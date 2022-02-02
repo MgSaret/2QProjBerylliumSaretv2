@@ -1,0 +1,106 @@
+
+#Logo {
+	float: left;
+	margin: 25px 25px 100px 20px;
+	width: 250px;
+	height: 250px;
+}
+
+h1 {
+	margin: 50px;
+	margin-bottom: 10px;
+	font-size: 78;
+	font-family: "Lucida Handwriting", cursive;
+}
+
+#Intro-pic {
+	height: 250px;
+	width: 500px;
+	position: relative;
+	top: 50px;
+	margin: 0px 50px 10px 10px;
+}
+
+#Intro-pic2 {
+	height: 250px;
+	width: 500px;
+	position: relative;
+	top: 50px;
+	margin: 0px 0px 10px 0px;
+}
+
+#Nav {
+	margin-left: 20px;
+	font-size: 34;
+}
+
+#Panel {
+	list-style-type: none;
+	margin-left: 30px;
+	padding: 0;
+	width: 220px;
+	background-color: #b991d9;
+}
+
+li a:link {
+	display: block;
+	color: black;
+	padding: 10px;
+	text-decoration: none;
+	text-align: center;
+	font-family: "Coppeplate", fantasy;
+	font-size: 24;
+}
+
+li a:visited {
+	color: red;
+}
+
+li a:hover {
+	background-color: #7f23f7;
+	color: white;
+}
+
+li a:active {
+	background-color: red;
+	color: white;
+}
+
+#Description {
+	position: absolute;
+	top: 505px;
+	left: 300px;
+	font-size: 26;
+	text-align: justify;
+	margin: 20px 30px 40px 0px;
+}
+
+#Ad1 {
+	height: 250px;
+	width: 500px;
+	margin: 20px 50px 50px 580px;
+}
+
+#TableCont {
+	margin: 20px 25px 80px 500px;
+}
+
+#Info {
+	position: absolute;
+	top: 1500px;
+	left: 0px;
+	border: 2px solid black;
+	width: 1500px;
+	height: 150px;
+	text-align: center;
+	margin-top: 200px;
+	font-size: 26;
+	padding: 5px 10px 5px 10px;
+	font-family: "Arial", san-serif;
+}
+
+#Admin {
+	position: absolute;
+	top: 15px;
+	left: 160px;
+}
